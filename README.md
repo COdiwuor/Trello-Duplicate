@@ -1,5 +1,5 @@
 
-# watch-us-build-trello
+# trello-duplicate
 
 ## Project setup
 ```
