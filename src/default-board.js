@@ -4,7 +4,7 @@ export default {
   name: 'workshop',
   columns: [
     {
-      name: 'todo',
+      name: 'Todo',
       tasks: [
         {
           description: 'remember to drink water',
